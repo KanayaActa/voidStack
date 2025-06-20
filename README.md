@@ -58,8 +58,5 @@ pnpm run dev --host
 
 ---
 
-## 作者
-- [iwasamasaya](https://github.com/iwasamasaya)
-
 ## ライセンス
 MIT 
